@@ -11,3 +11,4 @@
 .gitignore text
 *.md text
 *.rb linguist-language=Java
+doc/* linguist-vendored
