@@ -1,0 +1,28 @@
+Zasady gry PACMAN
+------------------------------------------------------------------------------------------------------------------------
+
+1. W celu ukoñczenia poziomu zjedz wszystkie kulki znajduj¹ce siê na planszy.
+2. Unikaj zostania zjedzonym przez duszki, powoduje to utratê ¿ycia.
+3. Utrata wszystkich trzech ¿yæ powoduje zakoñczenie poziomu.
+4. Zjedzenie wiêkszej kulki lub owocu powoduje uzyskanie premii punktowej.
+5. Zjedzenie b³yskawicy powoduje chwilowy wzrost prêdkoœci poruszania siê gracza.
+6. Zjedzenie wiêkszej kulki umo¿liwia zjedzenie duszka, co jest dodatkowo punktwane.
+7. Baw siê dobrze!
+
+Szczegó³owa punktacja
+------------------------------------------------------------------------------------------------------------------------
+
+*ma³a kulka = 1pkt
+*du¿a kulka = 2pkt
+*zjedzenie duszka = 10pkt
+*owoc = 5pkt
+
+Sterowanie
+------------------------------------------------------------------------------------------------------------------------
+Ruch:
+-w górê - strza³ka w górê
+-w dó³ - strza³ka w dó³
+-w lewo - strza³ka w lewo
+-w prawo -strza³ka w prawo
+Pauza:
+-uruchomienie/wy³¹czenie pauzy - naciœniêcie przycisku p
